@@ -1,0 +1,12 @@
+C:\Users\enes\Desktop\Software\MicroserviceProject\SellingBuddy\src\BuildingBlocks\EventBus\EventBusBase\obj\Debug\net6.0\EventBusBase.csproj.AssemblyReference.cache
+C:\Users\enes\Desktop\Software\MicroserviceProject\SellingBuddy\src\BuildingBlocks\EventBus\EventBusBase\obj\Debug\net6.0\EventBusBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes\Desktop\Software\MicroserviceProject\SellingBuddy\src\BuildingBlocks\EventBus\EventBusBase\obj\Debug\net6.0\EventBusBase.AssemblyInfoInputs.cache
+C:\Users\enes\Desktop\Software\MicroserviceProject\SellingBuddy\src\BuildingBlocks\EventBus\EventBusBase\obj\Debug\net6.0\EventBusBase.AssemblyInfo.cs
+C:\Users\enes\Desktop\Software\MicroserviceProject\SellingBuddy\src\BuildingBlocks\EventBus\EventBusBase\obj\Debug\net6.0\EventBusBase.csproj.CoreCompileInputs.cache
+C:\Users\enes\Desktop\Software\MicroserviceProject\SellingBuddy\src\BuildingBlocks\EventBus\EventBusBase\bin\Debug\net6.0\EventBusBase.deps.json
+C:\Users\enes\Desktop\Software\MicroserviceProject\SellingBuddy\src\BuildingBlocks\EventBus\EventBusBase\bin\Debug\net6.0\EventBusBase.dll
+C:\Users\enes\Desktop\Software\MicroserviceProject\SellingBuddy\src\BuildingBlocks\EventBus\EventBusBase\bin\Debug\net6.0\EventBusBase.pdb
+C:\Users\enes\Desktop\Software\MicroserviceProject\SellingBuddy\src\BuildingBlocks\EventBus\EventBusBase\obj\Debug\net6.0\EventBusBase.dll
+C:\Users\enes\Desktop\Software\MicroserviceProject\SellingBuddy\src\BuildingBlocks\EventBus\EventBusBase\obj\Debug\net6.0\refint\EventBusBase.dll
+C:\Users\enes\Desktop\Software\MicroserviceProject\SellingBuddy\src\BuildingBlocks\EventBus\EventBusBase\obj\Debug\net6.0\EventBusBase.pdb
+C:\Users\enes\Desktop\Software\MicroserviceProject\SellingBuddy\src\BuildingBlocks\EventBus\EventBusBase\obj\Debug\net6.0\ref\EventBusBase.dll
